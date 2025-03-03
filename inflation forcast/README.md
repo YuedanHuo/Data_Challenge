@@ -1,6 +1,6 @@
 # Inflation Forecasting Challenge: RAMP Starting Kit
 
-[![Build Status](https://travis-ci.org/ramp-kits/inflation_forecasting.svg?branch=master)](https://travis-ci.org/ramp-kits/inflation_forecasting)
+![GitHub Actions](https://github.com/channdethsok/inflation_forecasting/actions/workflows/ci.yml/badge.svg)
 
 This is the **RAMP starting kit** for the **Inflation Forecasting Challenge**, which focuses on predicting inflation using macroeconomic indicators from the **FRED dataset**.
 
