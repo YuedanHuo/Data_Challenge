@@ -1,0 +1,13 @@
+name: ramp-inflation-forecast
+channels:
+  - defaults
+dependencies:
+  - joblib
+  - matplotlib
+  - numpy
+  - pandas
+  - seaborn
+  - scikit-learn>=0.22
+  - pip
+  - pip:
+    - ramp-workflow
